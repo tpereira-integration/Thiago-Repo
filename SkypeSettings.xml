@@ -1,0 +1,11 @@
+<SkypeSettings>
+  <Theming>
+    <ThemeName>Custom</ThemeName>
+    <CustomThemeImageUrl>Wallpaper_TI_BR15.jpg</CustomThemeImageUrl>
+      <CustomThemeColor>
+        <RedComponent>100</RedComponent>
+        <GreenComponent>100</GreenComponent>
+        <BlueComponent>100</BlueComponent>
+       </CustomThemeColor>
+  </Theming>
+</SkypeSettings>

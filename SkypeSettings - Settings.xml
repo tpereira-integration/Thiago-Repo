@@ -1,0 +1,38 @@
+<SkypeSettings>
+  <AutoScreenShare>1</AutoScreenShare>
+  <HideMeetingName>0</HideMeetingName>
+  <AutoExitMeetingEnabled>false</AutoExitMeetingEnabled>
+  <AudioRenderDefaultDeviceVolume>50</AudioRenderDefaultDeviceVolume>
+  <AudioRenderCommunicationDeviceVolume>50</AudioRenderCommunicationDeviceVolume>
+  <TeamsMeetingsEnabled>true</TeamsMeetingsEnabled>
+  <SfbMeetingEnabled>false</SfbMeetingEnabled>
+  <IsTeamsDefaultClient>true</IsTeamsDefaultClient>
+  <RequirePasscodeForAllTeamsMeetings>false</RequirePasscodeForAllTeamsMeetings>
+  <RequirePasscodeForAllPrivateTeamsMeetings>false</RequirePasscodeForAllPrivateTeamsMeetings>
+  <WebExMeetingsEnabled>false</WebExMeetingsEnabled>
+  <ZoomMeetingsEnabled>true</ZoomMeetingsEnabled>
+  <BlueJeansMeetingsEnabled>false</BlueJeansMeetingsEnabled>
+  <UseCustomInfoForThirdPartyMeetings>true</UseCustomInfoForThirdPartyMeetings>
+  <CustomDisplayNameForThirdPartyMeetings>Integration Consulting</CustomDisplayNameForThirdPartyMeetings>
+  <CustomDisplayEmailForThirdPartyMeetings>support@integrationconsulting.com</CustomDisplayEmailForThirdPartyMeetings>
+  <BluetoothAdvertisementEnabled>true</BluetoothAdvertisementEnabled>
+  <AutoAcceptProximateMeetingInvitations>true</AutoAcceptProximateMeetingInvitations>
+  <AllowRoomRemoteEnabled>true</AllowRoomRemoteEnabled>
+  <RoomQRcodeEnabled>true</RoomQRcodeEnabled>
+  <QRCodeAutoAcceptProximateMeetingInvitations>true</QRCodeAutoAcceptProximateMeetingInvitations>
+  <DualScreenMode>true</DualScreenMode>
+  <DuplicateIngestDefault>true</DuplicateIngestDefault>
+  <DisableTeamsAudioSharing>false</DisableTeamsAudioSharing>
+  <EnableRoomCapacityNotification>true</EnableRoomCapacityNotification>
+  <FrontRowEnabled>true</FrontRowEnabled>
+  <FrontRowVideoSize>medium</FrontRowVideoSize>
+  <FrontRowPanelDefaults>3,2</FrontRowPanelDefaults>
+  <SingleFoRDefaultContentLayout>1</SingleFoRDefaultContentLayout>
+  <DefaultFoRExperience>0</DefaultFoRExperience>
+  <ShowMeetingChat>false</ShowMeetingChat>
+  <OpenMeetingChatByDefault>false</OpenMeetingChatByDefault>
+  <EnablePublicPreview>false</EnablePublicPreview>
+  <NoiseSuppressionDefault>0</NoiseSuppressionDefault>
+  <RoomLanguageSwitchEnabled>true</RoomLanguageSwitchEnabled>
+  <RemoveFoRCalendar>true</RemoveFoRCalendar>
+</SkypeSettings>
